@@ -12,3 +12,4 @@ BOOST_PYTHON_MODULE(my_module) {
     using namespace boost::python;
     def("sum_numbers", sum_numbers);
 }
+

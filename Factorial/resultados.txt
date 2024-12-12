@@ -1,0 +1,76 @@
+Calculando promedio con 50 elementos
+Tiempo de ejecución (Boost): 1.2874603271484375e-05 segundos
+Tiempo de ejecución: 6.9141387939453125e-06 segundos
+------------------------------
+Calculando promedio con 100 elementos
+Tiempo de ejecución (Boost): 1.6450881958007812e-05 segundos
+Tiempo de ejecución: 1.3113021850585938e-05 segundos
+------------------------------
+Calculando promedio con 150 elementos
+Tiempo de ejecución (Boost): 1.4066696166992188e-05 segundos
+Tiempo de ejecución: 2.6941299438476562e-05 segundos
+------------------------------
+Calculando promedio con 200 elementos
+Tiempo de ejecución (Boost): 1.5020370483398438e-05 segundos
+Tiempo de ejecución: 2.9325485229492188e-05 segundos
+------------------------------
+Calculando promedio con 250 elementos
+Tiempo de ejecución (Boost): 1.4543533325195312e-05 segundos
+Tiempo de ejecución: 3.3855438232421875e-05 segundos
+------------------------------
+Calculando promedio con 300 elementos
+Tiempo de ejecución (Boost): 2.2411346435546875e-05 segundos
+Tiempo de ejecución: 4.9591064453125e-05 segundos
+------------------------------
+Calculando promedio con 350 elementos
+Tiempo de ejecución (Boost): 2.1457672119140625e-05 segundos
+Tiempo de ejecución: 5.4836273193359375e-05 segundos
+------------------------------
+Calculando promedio con 400 elementos
+Tiempo de ejecución (Boost): 3.218650817871094e-05 segundos
+Tiempo de ejecución: 6.389617919921875e-05 segundos
+------------------------------
+Calculando promedio con 450 elementos
+Tiempo de ejecución (Boost): 2.86102294921875e-05 segundos
+Tiempo de ejecución: 5.269050598144531e-05 segundos
+------------------------------
+Calculando promedio con 500 elementos
+Tiempo de ejecución (Boost): 3.24249267578125e-05 segundos
+Tiempo de ejecución: 6.031990051269531e-05 segundos
+------------------------------
+Calculando promedio con 550 elementos
+Tiempo de ejecución (Boost): 3.552436828613281e-05 segundos
+Tiempo de ejecución: 7.104873657226562e-05 segundos
+------------------------------
+Calculando promedio con 600 elementos
+Tiempo de ejecución (Boost): 4.410743713378906e-05 segundos
+Tiempo de ejecución: 7.462501525878906e-05 segundos
+------------------------------
+Calculando promedio con 650 elementos
+Tiempo de ejecución (Boost): 4.8160552978515625e-05 segundos
+Tiempo de ejecución: 8.845329284667969e-05 segundos
+------------------------------
+Calculando promedio con 700 elementos
+Tiempo de ejecución (Boost): 5.6743621826171875e-05 segundos
+Tiempo de ejecución: 9.250640869140625e-05 segundos
+------------------------------
+Calculando promedio con 750 elementos
+Tiempo de ejecución (Boost): 7.295608520507812e-05 segundos
+Tiempo de ejecución: 0.00011968612670898438 segundos
+------------------------------
+Calculando promedio con 800 elementos
+Tiempo de ejecución (Boost): 8.821487426757812e-05 segundos
+Tiempo de ejecución: 0.00012612342834472656 segundos
+------------------------------
+Calculando promedio con 850 elementos
+Tiempo de ejecución (Boost): 7.867813110351562e-05 segundos
+Tiempo de ejecución: 0.00011777877807617188 segundos
+------------------------------
+Calculando promedio con 900 elementos
+Tiempo de ejecución (Boost): 0.0001964569091796875 segundos
+Tiempo de ejecución: 0.00022125244140625 segundos
+------------------------------
+Calculando promedio con 950 elementos
+Tiempo de ejecución (Boost): 0.00010323524475097656 segundos
+Tiempo de ejecución: 0.00014400482177734375 segundos
+------------------------------

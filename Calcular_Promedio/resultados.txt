@@ -1,0 +1,24 @@
+Calculando promedio con 1000 elementos
+Boost.Python: 0.000004 segundos, resultado: 51.370290350664106
+Python puro: 0.000008 segundos, resultado: 51.370290350664106
+------------------------------
+Calculando promedio con 10000 elementos
+Boost.Python: 0.000009 segundos, resultado: 50.227076983638135
+Python puro: 0.000040 segundos, resultado: 50.227076983638135
+------------------------------
+Calculando promedio con 100000 elementos
+Boost.Python: 0.000073 segundos, resultado: 50.027133485407006
+Python puro: 0.000462 segundos, resultado: 50.027133485407006
+------------------------------
+Calculando promedio con 1000000 elementos
+Boost.Python: 0.000558 segundos, resultado: 50.00596252307363
+Python puro: 0.002951 segundos, resultado: 50.00596252307363
+------------------------------
+Calculando promedio con 10000000 elementos
+Boost.Python: 0.005499 segundos, resultado: 50.00735221607613
+Python puro: 0.030203 segundos, resultado: 50.00735221607613
+------------------------------
+Calculando promedio con 100000000 elementos
+Boost.Python: 0.075063 segundos, resultado: 49.9988974288678
+Python puro: 0.493640 segundos, resultado: 49.9988974288678
+------------------------------

@@ -1,0 +1,41 @@
+
+Calculando vecinos más cercanos con 500000 elementos
+Tiempo en Python con Boost: 0.001984119415283203
+Tiempo en Python puro: 0.07166600227355957
+------------------------------
+Calculando vecinos más cercanos con 1000000 elementos
+Tiempo en Python con Boost: 0.003922939300537109
+Tiempo en Python puro: 0.1428995132446289
+------------------------------
+Calculando vecinos más cercanos con 1500000 elementos
+Tiempo en Python con Boost: 0.00683140754699707
+Tiempo en Python puro: 0.21870732307434082
+------------------------------
+Calculando vecinos más cercanos con 2000000 elementos
+Tiempo en Python con Boost: 0.008256912231445312
+Tiempo en Python puro: 0.28270626068115234
+------------------------------
+Calculando vecinos más cercanos con 2500000 elementos
+Tiempo en Python con Boost: 0.010648727416992188
+Tiempo en Python puro: 0.37970948219299316
+------------------------------
+Calculando vecinos más cercanos con 3000000 elementos
+Tiempo en Python con Boost: 0.011781692504882812
+Tiempo en Python puro: 0.43397045135498047
+------------------------------
+Calculando vecinos más cercanos con 3500000 elementos
+Tiempo en Python con Boost: 0.014281988143920898
+Tiempo en Python puro: 0.4948697090148926
+------------------------------
+Calculando vecinos más cercanos con 4000000 elementos
+Tiempo en Python con Boost: 0.01624584197998047
+Tiempo en Python puro: 0.5822811126708984
+------------------------------
+Calculando vecinos más cercanos con 4500000 elementos
+Tiempo en Python con Boost: 0.017495393753051758
+Tiempo en Python puro: 0.6519284248352051
+------------------------------
+Calculando vecinos más cercanos con 5000000 elementos
+Tiempo en Python con Boost: 0.020210742950439453
+Tiempo en Python puro: 0.7120835781097412
+------------------------------

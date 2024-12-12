@@ -1,0 +1,29 @@
+Calculando sumas de 10000 elementos
+Tiempo de ejecución (Boost): 2.5033950805664062e-05 segundos
+Tiempo de ejecución (Python puro): 0.00019979476928710938 segundos
+------------------------------
+Calculando sumas de 100000 elementos
+Tiempo de ejecución (Boost): 0.0001571178436279297 segundos
+Tiempo de ejecución (Python puro): 0.002088308334350586 segundos
+------------------------------
+Calculando sumas de 1000000 elementos
+Tiempo de ejecución (Boost): 0.0022003650665283203 segundos
+Tiempo de ejecución (Python puro): 0.019140005111694336 segundos
+------------------------------
+Calculando sumas de 10000000 elementos
+Tiempo de ejecución (Boost): 0.016670703887939453 segundos
+Tiempo de ejecución (Python puro): 0.16759681701660156 segundos
+------------------------------
+Calculando sumas de 100000000 elementos
+Tiempo de ejecución (Boost): 0.1527864933013916 segundos
+Tiempo de ejecución (Python puro): 1.698331594467163 segundos
+------------------------------
+Calculando sumas de 500000000 elementos
+Tiempo de ejecución (Boost): 0.7638354301452637 segundos
+Tiempo de ejecución (Python puro): 8.992313146591187 segundos
+------------------------------
+Calculando sumas de 1000000000 elementos
+Tiempo de ejecución (Boost): 1.554866075515747 segundos
+Tiempo de ejecución (Python puro): 28.294062852859497 segundos
+------------------------------
+

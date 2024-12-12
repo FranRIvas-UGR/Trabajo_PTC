@@ -1,0 +1,40 @@
+Calculando promedio con matrices de 50 x 50 elementos
+Tiempo de ejecución (Boost): 0.008069038391113281 segundos
+Tiempo de ejecución (Python Puro): 0.04249906539916992 segundos
+------------------------------
+Calculando promedio con matrices de 100 x 100 elementos
+Tiempo de ejecución (Boost): 0.03478813171386719 segundos
+Tiempo de ejecución (Python Puro): 0.22542929649353027 segundos
+------------------------------
+Calculando promedio con matrices de 150 x 150 elementos
+Tiempo de ejecución (Boost): 0.07144665718078613 segundos
+Tiempo de ejecución (Python Puro): 0.7509744167327881 segundos
+------------------------------
+Calculando promedio con matrices de 200 x 200 elementos
+Tiempo de ejecución (Boost): 0.12669992446899414 segundos
+Tiempo de ejecución (Python Puro): 1.7737972736358643 segundos
+------------------------------
+Calculando promedio con matrices de 250 x 250 elementos
+Tiempo de ejecución (Boost): 0.1984386444091797 segundos
+Tiempo de ejecución (Python Puro): 3.563089370727539 segundos
+------------------------------
+Calculando promedio con matrices de 300 x 300 elementos
+Tiempo de ejecución (Boost): 0.3600342273712158 segundos
+Tiempo de ejecución (Python Puro): 6.884755611419678 segundos
+------------------------------
+Calculando promedio con matrices de 350 x 350 elementos
+Tiempo de ejecución (Boost): 0.4577207565307617 segundos
+Tiempo de ejecución (Python Puro): 10.050846099853516 segundos
+------------------------------
+Calculando promedio con matrices de 400 x 400 elementos
+Tiempo de ejecución (Boost): 0.6379568576812744 segundos
+Tiempo de ejecución (Python Puro): 15.889228582382202 segundos
+------------------------------
+Calculando promedio con matrices de 450 x 450 elementos
+Tiempo de ejecución (Boost): 0.9094047546386719 segundos
+Tiempo de ejecución (Python Puro): 22.435008764266968 segundos
+------------------------------
+Calculando promedio con matrices de 500 x 500 elementos
+Tiempo de ejecución (Boost): 1.303076982498169 segundos
+Tiempo de ejecución (Python Puro): 31.573280572891235 segundos
+------------------------------
