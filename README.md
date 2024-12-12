@@ -9,19 +9,33 @@ Este proyecto contiene varios módulos de Boost.Python que implementan diferente
 │   ├── calcular_promedio_boost_module.so
 │   ├── calcular_promedio.cpp
 │   ├── compilar.sh
-│   └── measure.py
+│   ├── measure.py
+│   ├── resultados.txt
+│   └── script_resultados.sh
 ├── Factorial
+│   ├── compilar.sh
+│   ├── measure.py
 │   ├── my_module.cpp
 │   ├── my_module.so
-│   └── python_factorial_boost.py
+│   ├── python_factorial_boost.py
+│   ├── resultados.txt
+│   └── script_resultados.sh
 ├── Multiplicacion_Datos_N_Dim
+│   ├── compilar.sh
+│   ├── measure.py
 │   ├── my_module.cpp
 │   ├── my_module.so
-│   └── python_numpy_boost.py
+│   ├── python_numpy_boost.py
+│   ├── resultados.txt
+│   └── script_resultados.sh
 ├── Suma_Numeros
+│   ├── compilar.sh
+│   ├── measure.py
 │   ├── my_module.cpp
 │   ├── my_module.so
-│   └── python_sum_boost.py
+│   ├── python_sum_boost.py
+│   ├── resultados.txt
+│   └── script_resultados.sh
 ├── Vecino_Mas_Cercano
 │   ├── compilar.sh
 │   ├── measure.py
@@ -30,7 +44,14 @@ Este proyecto contiene varios módulos de Boost.Python que implementan diferente
 │   ├── nearest_neighbor_boost_np.so
 │   ├── nearest_neighbor_boost.so
 │   ├── nearest_neighbor.py
-├── README.md
+│   ├── __pycache__
+│   │   └── nearest_neighbor.cpython-311.pyc
+│   ├── resultados.txt
+│   └── script_resultados.sh
+|
+├── lanzar_programa.sh
+├── compilar_todos.sh
+└──README.md
 ```
 
 ### Calcular_Promedio
