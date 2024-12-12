@@ -87,10 +87,7 @@ Este proyecto contiene varios módulos de Boost.Python que implementan diferente
 - `my_module.cpp`: Código fuente en C++ que implementa la búsqueda de vecino más cercano usando NumPy.
 - `nearest_neighbor.py`: Implementación en Python puro de la búsqueda de vecino más cercano.
 
-### .vscode
 
-- `c_cpp_properties.json`: Configuración de IntelliSense para C++ en Visual Studio Code.
-- `settings.json`: Configuración de asociaciones de archivos en Visual Studio Code.
 
 ## Compilación
 
