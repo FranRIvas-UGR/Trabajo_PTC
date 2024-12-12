@@ -4,6 +4,7 @@ Este proyecto contiene varios módulos de Boost.Python que implementan diferente
 
 ## Estructura del Proyecto
 
+```
 ├── Calcular_Promedio
 │   ├── calcular_promedio_boost_module.so
 │   ├── calcular_promedio.cpp
@@ -30,6 +31,7 @@ Este proyecto contiene varios módulos de Boost.Python que implementan diferente
 │   ├── nearest_neighbor_boost.so
 │   ├── nearest_neighbor.py
 ├── README.md
+```
 
 ### Calcular_Promedio
 
